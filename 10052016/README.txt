@@ -10,9 +10,9 @@ ans. 1 2 3 4
 
 Q3. Design an algorithm to encode a list of strings to a string. The encoded string is then sent over the network and is decoded back to the original list of strings.
 
-Q4. Find all combinations of a string. 
+Q4. Find all permutations of a string. 
 
-ex. "abc" has the following combinations:
+ex. "abc" has the following permutations:
 abc
 acb
 bac
@@ -20,7 +20,7 @@ bca
 cab
 cba
 
-Total number of combinations of 3!=6.
+Total number of permutations of 3!=6.
 
 Q5. Given a BST write a function kthSmallest to find the kth smallest in it.
 

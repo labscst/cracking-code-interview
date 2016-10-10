@@ -1,11 +1,11 @@
-//This class describes how to find all combinations of a string.
-public final class combination
+//This class describes how to find all permutations of a string.
+public final class permutation
 {
    public static void main(String ...args)
    {
      String s = "abc";
      boolean[] truthTable = new boolean[26];
-     //Generate and print all combinations. 
+     //Generate and print all permutations. 
      //You can also use a list to write all strings 
      //to the list.
      
